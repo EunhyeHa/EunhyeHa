@@ -1,4 +1,4 @@
-## Hi there 👋
+# 바다를 헤엄치는 파도처럼, 웹퍼블리셔 하은혜입니다.
 
 <!--
 **EunhyeHa/EunhyeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
